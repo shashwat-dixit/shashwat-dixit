@@ -8,11 +8,11 @@
 <h3 align="center">Full Stack Developer</h3>
 
 
-```bash
+<p align="left">
 Full-stack software developer seeking an engineering position to apply my problem-solving skills and passion for crafting innovative products and user experiences. Proficient in C/C++, JavaScript, Python, Next.js, Machine Learning, Polygon, and Data Analysis, with hands-on experience in real-world software projects. With strong communication skills, I thrive in team environments and excel as a self-starter who approaches problem-solving with a logical mindset.
 
 🚀 Let's team up and turn ideas into reality!
-```
+</p>
 
 * 🌍 Based in Bangalore, India.
 * 💼 Explore my professional portfolio on [Shashwat Dixit](https://shashwatdixit.me).
