@@ -1,15 +1,24 @@
-<!-- ![header](https://user-images.githubusercontent.com/85401522/193738869-1aae5c48-37b8-487d-bedb-de2dba39fd5e.png) -->
+<!-- ![cover-img](https://raw.githubusercontent.com/shashwat-dixit/shashwat-dixit/master/cover.jpg) -->
 
-<div align="center">
+
+<div>
   <h1>👋 Hey there! I'm Shashwat Dixit</h1>
 </div>
 
-
-<h3 align="center">Full Stack Developer</h3>
-
+<h3>Full Stack Developer</h3>
 
 <p align="left">
-Full-stack software developer seeking an engineering position to apply my problem-solving skills and passion for crafting innovative products and user experiences. With strong communication skills, I thrive in team environments and excel as a self-starter who approaches problem-solving with a logical mindset.
+Full-stack software developer seeking an engineering position to apply my problem-solving skills and passion for crafting innovative products and user experiences. Proficient in C/C++, JavaScript, Python, Next.js, Machine Learning, Polygon, and Data Analysis, with hands-on experience in real-world software projects. With strong communication skills, I thrive in team environments and excel as a self-starter who approaches problem-solving with a logical mindset.
+
+<div align="center">
+  
+| Portfolio | Twitter/X | LinkedIn |
+|-|-|-|
+| [shahwatdixit.me](https://shashwatdixit.me) | [shashwatmain](https://www.twitter.com/shashwatmain) | [Shashwat Dixit](https://linkedin.com/in/dixitshashwat) |
+| Schedule a call | Resume | Upwork |
+| [cal.com/shashwatdixit](https://cal.com/shashwatdixit) | [Resume.pdf](https://raw.githubusercontent.com/shashwat-dixit/shashwat-dixit/master/Resume.pdf) | [Shashwat Dixit](https://www.upwork.com/freelancers/~0133f09a530ebac0a3) |
+</div>
+
 
 🚀 Let's team up and turn ideas into reality!
 </p>
@@ -44,7 +53,7 @@ Full-stack software developer seeking an engineering position to apply my proble
 ### GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shashwat-dixit&theme=highcontrast&show_icons=true&hide_border=false&count_private=true" width="250"> 
+<img src="https://github-readme-stats.vercel.app/api?username=shashwat-dixit&theme=highcontrast&show_icons=true&hide_border=false&count_private=true" width="250">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwat-dixit&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" width="250">
 
@@ -52,3 +61,4 @@ Full-stack software developer seeking an engineering position to apply my proble
 </p>
 
 ***
+
