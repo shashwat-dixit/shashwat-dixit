@@ -4,12 +4,12 @@
 
 | Portfolio | Twitter/X | LinkedIn |
 |-|-|-|
-| [shahwatdixit.me](https://shashwatdixit.me) | [shashwatmain](https://www.twitter.com/shashwatmain) | [Shashwat Dixit](https://linkedin.com/in/dixitshashwat) |
+| [shahwatdixit.dev](https://shashwatdixit.dev) | [shashwatmain](https://www.twitter.com/shashwatmain) | [Shashwat Dixit](https://linkedin.com/in/dixitshashwat) |
 | Schedule a call | Resume | Upwork |
 | [cal.com/shashwatdixit](https://cal.com/shashwatdixit) | [Resume.pdf](https://raw.githubusercontent.com/shashwat-dixit/shashwat-dixit/master/Resume.pdf) | [Shashwat Dixit](https://www.upwork.com/freelancers/~0133f09a530ebac0a3) |
 
 * 🌍 Based in Bangalore, India.
-* 💼 Explore my [portfolio](https://shashwatdixit.me).
+* 💼 Explore my [portfolio](https://shashwatdixit.dev).
 * 🚀 Currently, my primary focus is Full Stack Development.
 * 🤝 Open to remote opportunities and eager to collaborate on Open Source Projects and engage in Hackathons.
 
