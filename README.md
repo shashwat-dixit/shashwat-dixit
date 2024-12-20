@@ -6,6 +6,4 @@
 | Schedule a call | Resume | Upwork |
 | [cal.com/shashwatdixit](https://cal.com/shashwatdixit) | [Resume.pdf](https://raw.githubusercontent.com/shashwat-dixit/shashwat-dixit/master/Resume.pdf) | [Shashwat Dixit](https://www.upwork.com/freelancers/~0133f09a530ebac0a3) |
 
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shashwat-dixit&theme=highcontrast&hide_border=false" width="250">
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=shashwat-dixit&theme=darcula&border_radius=8&short_numbers=true" alt="GitHub Streak" />
