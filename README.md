@@ -11,6 +11,7 @@
   <a href="https://shashwatdixit.com/blog">Blog</a> ·
   <a href="https://linkedin.com/in/dixitshashwat">LinkedIn</a> ·
   <a href="https://x.com/shashwatmain">X</a> ·
+  <a href="https://cal.com/shashwatdixit/meeting">Book a call</a> ·
   <a href="mailto:shashwatmain@gmail.com">Email</a>
 </p>
 
@@ -47,10 +48,10 @@ Based in Bengaluru. I like working across the stack — from Redis locking to El
 
 | Project | What it is |
 | --- | --- |
-| [Jamin](https://jamin.shashwatdixit.com) · [source](https://github.com/shashwat-dixit/jamin) | Full-stack AI chat platform that aggregates GPT, Claude, and Cohere via LangChain, with RAG-powered PDF Q&A and image generation |
-| [Zort](https://zort.shashwatdixit.com) · [source](https://github.com/shashwat-dixit/zort) | Real-time collaborative whiteboard for 100+ concurrent users, built with Next.js and Socket.IO |
-| [Code Compete](https://codecompete.shashwatdixit.dev) · [source](https://github.com/shashwat-dixit/code-compete) | Typeracer-style arena for LeetCode and competitive programming problems |
-| [cVPN](https://cvpn.shashwatdixit.dev) · [source](https://github.com/shashwat-dixit/cvpn) | CLI VPN built with Go and AWS |
+| [Jamin](https://github.com/shashwat-dixit/jamin) | Full-stack AI chat platform that aggregates GPT, Claude, and Cohere via LangChain, with RAG-powered PDF Q&A and image generation |
+| [Zort](https://github.com/shashwat-dixit/zort) | Real-time collaborative whiteboard for 100+ concurrent users, built with Next.js and Socket.IO |
+| [Code Compete](https://github.com/shashwat-dixit/code-compete) | Typeracer-style arena for LeetCode and competitive programming problems |
+| [cVPN](https://github.com/shashwat-dixit/cvpn) | CLI VPN built with Go and AWS |
 | [Status Sync](https://github.com/shashwat-dixit/status-sync) | Self-hosted, open-source status page |
 
 ---
@@ -101,10 +102,10 @@ A few posts from [shashwatdixit.com/blog](https://shashwatdixit.com/blog):
 ### GitHub stats
 
 <a href="https://github.com/shashwat-dixit">
-  <img align="center" alt="Shashwat's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=shashwat-dixit&show_icons=true&count_private=true&theme=nightowl&hide_border=true&bg_color=0D1117" width="420" />
+  <img align="center" alt="Shashwat's GitHub stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=shashwat-dixit&show_icons=true&count_private=true&theme=nightowl&hide_border=true&bg_color=0D1117" width="420" />
 </a>
 <a href="https://github.com/shashwat-dixit">
-  <img align="center" alt="Shashwat's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwat-dixit&langs_count=8&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117" width="340" />
+  <img align="center" alt="Shashwat's top languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shashwat-dixit&langs_count=8&layout=compact&theme=nightowl&hide_border=true&bg_color=0D1117" width="340" />
 </a>
 
 ![Shashwat's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shashwat-dixit&theme=nightowl)
